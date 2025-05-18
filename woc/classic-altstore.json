@@ -1,0 +1,53 @@
+{
+    "name": "World of Creators",
+    "identifier" :"com.cw.worldofcreaters",
+    "featuredApps": [
+        "com.cw.worldofcreaters"
+      ],
+    "apps": [
+        {
+            "name": "World of Creators",
+            "bundleIdentifier": "com.cw.worldofcreaters",
+            "developerName": "Roman Christian Haffner",
+            "subtitle": "",
+            "tintColor": "#018084",
+            "iconURL": "https://application.woc.earth/public/adminAssets/img/woc_logo.png",
+            "localizedDescription": "Since birth I have had the ability to see and describe energy fields. I call this ability reading and scanning. This makes it easy for me to see people, places, animals and objects energetically and as a result to recognize where blockages are and where certain energies are flowing. I recognize what the person or place or even an animal needs in order to be in harmony and attunement with itself.",
+            "category": "lifestyle",
+            "beta": false,
+            "screenshots": [
+                {
+                    "imageURL": "https://application.woc.earth/public/adminAssets/img/woc_radio.png",
+                    "width": 368,
+                    "height": 800
+                },
+                {
+                    "imageURL": "https://application.woc.earth/public/adminAssets/img/home_woc.png",
+                    "width": 368,
+                    "height": 800
+                }
+            ],
+            "versions": [
+                {
+                    "version": "1.0.9",
+                    "buildVersion": "17",
+                    "date": "2025-05-10",
+                    "localizedDescription": "Since birth I have had the ability to see and describe energy fields. I call this ability reading and scanning. This makes it easy for me to see people, places, animals and objects energetically and as a result to recognize where blockages are and where certain energies are flowing. I recognize what the person or place or even an animal needs in order to be in harmony and attunement with itself.",
+                    "downloadURL": "https://brianmwadime.github.io/woc/ipa/worldofcreaters.ipa",
+                    "size": 20506928,
+                    "minOSVersion": "15.0"
+                }
+            ],
+            "appPermissions": {
+                "privacy": {
+                    "NSMicrophoneUsageDescription": "World of Creaters may use your microphone to send audio messages to a joined group chat.",
+                    "NSCameraUsageDescription": "World of Creaters may use your photo library to pick profile photo.",
+                    "NSLocationAlwaysAndWhenInUseUsageDescription": "World of Creaters may use your location to show you other members nearby.",
+                    "NSPhotoLibraryUsageDescription": "World of Creaters may use your photo library to pick profile photo."
+                }
+            }
+        }
+    ],
+    "news": [
+    ]
+}
