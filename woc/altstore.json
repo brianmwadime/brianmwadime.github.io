@@ -39,6 +39,9 @@
                 }
             ],
             "appPermissions": {
+                "entitlements": [
+                    "aps-environment"
+                ],
                 "privacy": {
                     "NSMicrophoneUsageDescription": "World of Creaters may use your microphone to send audio messages to a joined group chat.",
                     "NSCameraUsageDescription": "World of Creaters may use your photo library to pick profile photo.",
