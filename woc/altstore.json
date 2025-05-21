@@ -43,6 +43,7 @@
                     "NSMicrophoneUsageDescription": "World of Creaters may use your microphone to send audio messages to a joined group chat.",
                     "NSCameraUsageDescription": "World of Creaters may use your photo library to pick profile photo.",
                     "NSLocationAlwaysAndWhenInUseUsageDescription": "World of Creaters may use your location to show you other members nearby.",
+                    "NSLocationWhenInUseUsageDescription": "World of Creaters may use your location to show you other members nearby.",
                     "NSPhotoLibraryUsageDescription": "World of Creaters may use your photo library to pick profile photo."
                 }
             }
